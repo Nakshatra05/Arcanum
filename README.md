@@ -1,5 +1,7 @@
 # Arcanum
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aac28561-3eb7-4b72-9315-64f8ae473468" />
+
 **Arcanum** is a privacy-aware swap execution layer built on **Uniswap v4 hooks**.
 
 It introduces **intent-based swaps** that reduce unnecessary information leakage around **when**, **where**, and **how** trades execute — without breaking composability, auditability, or onchain verifiability.
@@ -30,6 +32,9 @@ Arcanum reduces this leakage **without hiding state or relying on offchain trust
 ---
 
 ## What Arcanum Is (and Is Not)
+
+<img width="2940" height="1846" alt="image" src="https://github.com/user-attachments/assets/17bcc045-a4e0-4a6a-90db-f2fd19d5e6d2" />
+<img width="2940" height="1846" alt="image" src="https://github.com/user-attachments/assets/bc05b411-74b9-4794-9f20-9347cd6f7f3e" />
 
 **Arcanum is:**
 
