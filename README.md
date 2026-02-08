@@ -222,3 +222,7 @@ Arcanum is a **privacy-aware execution primitive**, not a silver bullet.
 
 > **Arcanum brings intent-based privacy to Uniswap v4 swaps — reducing when, where, and how execution signals leak, without breaking composability.**
 
+---
+
+## Deployed Contract Hash: https://sepolia.uniscan.xyz/tx/0x27f3ed318d734e6adbac2bd67ca5c20bc8b6a3a1a96a8522093447c15e030124
+## Swap Hash: https://sepolia.uniscan.xyz/tx/0x453be2be5f76cfc89256b452b369bcb348cbb2e68d8ad1bfb9939fc4464956ce
